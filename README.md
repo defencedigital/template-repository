@@ -20,6 +20,6 @@ Once you have created your repository, please:
 * Modify the Dependabot file to suit the [dependency manager](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file#package-ecosystem) you plan to use and for [automated pull requests for package updates](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/enabling-and-disabling-dependabot-version-updates#enabling-dependabot-version-updates). Dependabot is enabled in the settings by default.
 * Modify the short description found on the right side of the README.md file.
 * Ensure as many of the GitHub Standards [TODO] rules are maintained as possibly can.
-* Modify the MoD Compliant Badge url using these instructions[TODO].
+* Modify the MoD Compliant Badge url using these instructions [TODO].
 
 [create a repository]: https://github.com/defencedigital/template-repository/generate
