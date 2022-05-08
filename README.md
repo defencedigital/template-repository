@@ -1,6 +1,6 @@
-# Ministry of Justice Template Repository
+# Ministry of Defence Template Repository
 
-Use this template to [create a repository] with the default initial files for a Ministry of Justice Github repository, including:
+Use this template to [create a repository] with the default initial files for a Ministry of Defence GitHub repository, including:
 
 * The correct LICENSE
 * Github Action example
