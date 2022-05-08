@@ -3,11 +3,11 @@
 Use this template to [create a repository] with the default initial files for a Ministry of Defence GitHub repository, including:
 
 * The correct LICENSE
-* Github Action example
+* Github Action example [TODO]
 * A .gitignore file
 * A CODEOWNERS file
 * A dependabot.yml file
-* The MoD Compliant Badge
+* The MoD Compliant Badge [TODO]
 
 Once you have created your repository, please:
 
